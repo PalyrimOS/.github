@@ -5,10 +5,6 @@ We focus on performance and adding optimizations that make the user experience b
 
 Since we use LineageOS as base, if your device has official LOS support you can compile PalyrimOS with the official sources without further complication.
 
-If u want to maintain official device fill this form: 
-
-https://docs.google.com/forms/d/1O-6MeCSyT5xQck6_yxCKRvV2Yq-pTRh8yzrDZXzxYyI
-
 ### Important Links 
 - [PalyrimOS Devices](https://github.com/PalyrimOS-Devices)
 - [Telegram Updates Channel](https://t.me/PalyrimOsUpdates)
