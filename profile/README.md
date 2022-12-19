@@ -5,6 +5,11 @@ We focus on performance and adding optimizations that make the user experience b
 
 Since we use LineageOS as base, if your device has official LOS support you can compile PalyrimOS with the official sources without further complication.
 
+
+### Translations
+- [Settings](https://crowdin.com/project/palyrimos)
+- [Frameworks](https://crowdin.com/project/palyrimos-translations)
+
 ### Important Links 
 - [PalyrimOS Devices](https://github.com/PalyrimOS-Devices)
 - [Telegram Updates Channel](https://t.me/PalyrimOsUpdates)
